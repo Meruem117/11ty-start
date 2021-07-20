@@ -1,0 +1,11 @@
+{
+  "name": "stitcher",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "node-fetch": "^2.6.1"
+  }
+}
