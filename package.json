@@ -2,7 +2,8 @@
   "name": "stitcher",
   "version": "0.1.0",
   "scripts": {
-    "start": "npx eleventy --serve"
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
